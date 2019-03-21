@@ -1,0 +1,11 @@
+{
+  "name": "rollBot",
+  "version": "1.0.0",
+  "description": "this bot is supposed to say hello or something",
+  "main": "bot.js",
+  "author": "Jared",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
